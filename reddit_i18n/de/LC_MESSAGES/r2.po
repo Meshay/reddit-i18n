@@ -28,7 +28,7 @@ msgstr "API"
 
 #: r2/controllers/api.py:140
 msgid "thanks for your message! you should hear back from us shortly."
-msgstr "Danke für deine Nachricht! Du sollst bald von uns hören."
+msgstr "Danke für deine Nachricht! Du solltest bald von uns hören."
 
 #: r2/controllers/api.py:168
 msgid "your message has been delivered"
